@@ -1,0 +1,7 @@
+kenapa di widget map_page gabisa nambahin sized box dibawah app bar , sehingga ada jarak antara app bar dan body
+bisa seperti ini ? children: <Widget>[
+          if (showContainer)
+            Container(
+bedanya Listview/Gridview .builder/.separator
+gimana cara bikin yang di bagian deskripsi, yang gambar dan nama agen&role stay, tapi bagian isi deskripsi bisa discroll
+apa itu di wrap builder
